@@ -1,8 +1,6 @@
 # Introductie
 
-Deze oefening is deel van de DEA Course aan de Hogeschool Arnhem/Nijmegen. 
-Onderwerp is het bekend raken met Test Driven Development.
-
+Deze oefening is deel van de course BEWD aan de Hogeschool Arnhem/Nijmegen. Doel is opfrissen van kennis over Java en OO.
 
 
 # Oefening
